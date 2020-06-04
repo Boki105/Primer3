@@ -1,2 +1,3 @@
 Zdravo svima!
 ovde dodajem neke podatke vezane samo za branch cdt
+Dodala sam granu cdt2
