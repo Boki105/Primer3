@@ -2,4 +2,5 @@ Zdravo svima!
 ovde dodajem neke podatke vezane samo za branch cdt
 Dodala sam granu cdt2
 Dodala sam granu development na cdt2
+dodata je grana development2 na granu development
 
